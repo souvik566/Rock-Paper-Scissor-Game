@@ -1,0 +1,100 @@
+#container{
+    background-color: rgb(48, 48, 48);
+    height: 200px;
+    width: 300px;
+    margin: auto;
+    margin-bottom: 3px;
+}
+#pun{
+    margin: 20px;
+    border-radius: 20px;
+    position: relative;
+    left: 10px;
+    top: 40px;
+    height: 50px;
+    font-size: 20px;
+}
+#two{
+    margin: 20px;
+    border-radius: 20px;
+    position: relative;
+    left: 10px;
+    top: 40px;
+    height: 50px;
+    font-size: 20px;
+}
+#up{
+    margin: 20px;
+    border-radius: 20px;
+    position: relative;
+    left: 10px;
+    top: 40px;
+    height: 50px;
+    font-size: 20px;
+}
+#box{
+    border: yellow 3px solid;
+    width: 285px;
+    padding: 5px;
+    margin: 0px;
+    text-align: center;
+    color: white;
+    background-color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: auto;
+   
+}
+#s1{
+    padding: 5px;
+}
+#s2{
+    padding:5px;
+}
+#choose{
+height: 50px;
+width: 295px;
+border: 3px solid red;
+text-align: center;
+margin: 0px;
+margin: auto;
+margin-top: 10px;
+color: green;
+background-color: aqua;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#mainbox{
+    text-align: center;
+    margin: auto;
+    border: black 2px solid;
+    background-image: url("https://cutewallpaper.org/25/anime-best-hd-wallpaper/64171051.jpg");
+    /* background-repeat: no-repeat; */
+    margin-left: -15px;
+    margin-right: -15px;
+}
+#result{
+    background-color: brown;
+    color: rgb(183, 255, 0);
+    width: 300px;
+    margin: auto;
+    word-spacing: 2px;
+    margin-bottom: 3px;
+    margin-top: -4px;
+
+}
+#reload{
+    margin-bottom: 6px;
+    margin-top: 3px;
+    color: rgb(233, 245, 9);
+    font-family:'Times New Roman', Times, serif;
+    background-color: darkblue;
+    border-radius: 50%;
+}
+#gif{
+    height: 200px;
+    margin: auto;
+    position: relative;
+    left: 550px;
+}
+#bdy{
+background-color: yellow;
+}
